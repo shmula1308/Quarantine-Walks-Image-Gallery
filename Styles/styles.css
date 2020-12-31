@@ -35,6 +35,7 @@ h1 {
 }
 
 .slide-container {
+    width: 90%;
     max-width: 900px;
     margin: 2em auto;
     position: relative;
